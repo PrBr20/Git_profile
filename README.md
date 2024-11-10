@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Protoy Barai.</h1>
-<h3 align="center">I'm a passionate problem solver and web developer. Throughout my academic career, I participated in several competitive programming contests and also completed several projects which allowed me to gain hands-on experiences in different fields.</h3>
+<h3 align="center">I'm a passionate problem solver and web developer. Throughout my academic career, I participated in several competitive programming contests and also completed several projects which allowed me to gain hands-on experiences in different CS fields.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prbr20" alt="prbr20" /></a> </p>
 
@@ -20,7 +20,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/protoy-barai-685062309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/protoy-barai-685062309/" height="30" width="40" /></a>
 <a href="https://fb.com/protoy barai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="protoy barai" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/protoy barai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="protoy barai" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rauzaruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rauzaruk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
