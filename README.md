@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Protoy Barai.</h1>
-<h3 align="center">I'm a passionate problem solver and web developer. Throughout my academic career, I participated in several competitive programming contests and completed several projects which allowed me to gain hands-on experiences in different fields.</h3>
+<h3 align="center">I'm a passionate problem solver and web developer. Throughout my academic career, I participated in several competitive programming contests and also completed several projects which allowed me to gain hands-on experiences in different fields.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prbr20" alt="prbr20" /></a> </p>
 
-- 🔭 I’m currently studying in **CSE, BUET.**
+- 🔭 I’m currently studying in **L4T2** at **CSE, BUET.**
 
 - 🌱 I’m currently learning **ML and DL basics and frameworks**
 
 - 📫 How to reach me **protoybarai@gmail.com**
+
+### Competitive Programming Performances:
+
+| Platform               | Handle      | Max Rating        | 
+| -----------         | -----------      |  -----------     |
+| Codeforces | [Rauzaruk](https://codeforces.com/profile/Rauzaruk)   |  1624  | 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
